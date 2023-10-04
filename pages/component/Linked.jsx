@@ -6,7 +6,7 @@ export default function Hero() {
         <>
             <div className={style.boxes}>
                 <Link className={style.box_single} href="/">
-                    Teste Hero!
+                    aaaa
                 </Link>
             </div>
         </>
