@@ -1,0 +1,73 @@
+#iconyt {
+    color: #ff0000;
+}
+
+#icongithub {
+    color: #fafafa;
+}
+
+#icon_c {
+    color: #007396;
+}
+
+#icon_cleancode {
+    color: #4CAF50;
+}
+
+#icon_email {
+    color: #FF5722;
+}
+
+#icondc {
+    color: #7289DA;
+}
+
+#boxdc:hover {
+    background: #7289DA;
+    border: 1px solid #7289DA;
+}
+
+#boxyt:hover {
+    background: #ff0000;
+    border: 1px solid #ff0000;
+}
+
+#boxyt:hover #iconyt {
+    color: #fff;
+}
+
+#boxClang:hover #icon_c {
+    color: #fff;
+}
+
+#boxClang:hover {
+    background: #007396;
+    border: 1px solid #007396;
+}
+
+#boxCleanCode:hover #icon_cleancode {
+    color: #fff;
+}
+
+#boxCleanCode:hover {
+    background: #4CAF50;
+    border: 1px solid #4CAF50;
+}
+
+#email:hover #icon_email {
+    color: #fff;
+}
+
+#email:hover {
+    background: #FF5722;
+    border: 1px solid #FF5722;
+}
+
+#boxgit:hover #icongithubn {
+    color: #ffffff;
+}
+
+#boxgit:hover {
+    background: #3f3f3f;
+    border: 1px solid #3f3f3f;
+}
