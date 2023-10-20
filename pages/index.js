@@ -1,4 +1,4 @@
-import style from '../style/module/index.module.css';
+import style from './style/module/index.module.css';
 import Header from './component/Header';
 import Linked from './component/Linked'
 
