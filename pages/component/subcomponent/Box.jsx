@@ -1,4 +1,4 @@
-import style from '../../../style/module/hero.module.css';
+import style from '../../style/module/hero.module.css';
 import Link from "next/link";
 
 export default function Box({ titleProps = "Socialbit 'Links'", labelBox = "####Label Não definido", idLabelBox, IconBox, idIcon, idBox, URLRoute }) {

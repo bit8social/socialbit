@@ -4,8 +4,8 @@ import { GiGalaxy } from 'react-icons/gi'
 import { BsMailbox2, BsDiscord } from 'react-icons/bs'
 //
 
-import style from '../../style/module/hero.module.css';
-import s from '../../style/module/animations/hoverfile.module.css'
+import style from '../style/module/hero.module.css';
+import s from '../style/module/animations/hoverfile.module.css'
 import Box from './subcomponent/Box'
 
 export default function Hero() {
