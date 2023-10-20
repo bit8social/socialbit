@@ -22,9 +22,9 @@ export default function Hero() {
                 <div className={style.title}><h3>Livros & Artigos</h3></div>
                 <Box labelBox={"The Development of C"} titleProps={"The Development of the C Language"} IconBox={AiFillRead} idIcon={s.icon_c} idBox={s.boxClang} URLRoute={'https://www.bell-labs.com/usr/dmr/www/chist.pdf'}/>
                 <Box labelBox={"C for Dummies"} titleProps={"C para Idiotas"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'https://www.cl72.org/070documents/C/For%20Dummies%20-%20C.pdf'}/>
-                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'/'}/>
-                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'/'}/>
-                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'/'}/>
+                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'https://www.youtube.com/@bit8social'}/>
+                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'https://www.youtube.com/@bit8social'}/>
+                <Box labelBox={"Clean Code"} titleProps={"Clean Code"} IconBox={GiGalaxy} idIcon={s.icon_cleancode}  idBox={s.boxCleanCode} URLRoute={'https://www.youtube.com/@bit8social'}/>
             </div>
 
             <div className={style.categoria}>
