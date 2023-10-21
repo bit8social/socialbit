@@ -8,7 +8,7 @@ export default function SocialBit() {
     return (
         <>
             <Head>
-                <link rel="shortcut icon" href="https://github.com/Luan16p/socialbit/blob/main/assets/fav.png?raw=true" type="image/x-icon" />
+                <link rel="shortcut icon" href="https://github.com/bit8social/socialbit/blob/main/pages/assets/fav.png?raw=true" type="image/x-icon" />
                 <title>SocialBit</title>
             </Head>
 
