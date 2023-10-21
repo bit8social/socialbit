@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Box({ titleProps = "Socialbit 'Links'", labelBox = "####Label Não definido", idLabelBox, IconBox, idIcon, idBox, URLRoute }) {
   return (
-    <Link className={style.box_single} id={idBox} href={URLRoute} title={titleProps}>
+    <Link className={style.box_single} id={idBox} href={URLRoute || "www.github.com"} title={titleProps}>
       <IconBox className={style.iconbox} id={idIcon} />
       <div className={style.labels}>
         <span className={style.label_}>{labelBox}</span>
