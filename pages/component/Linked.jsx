@@ -30,7 +30,7 @@ export default function Hero() {
             <div className={style.categoria}>
                 <div className={style.title}><h3>Contato</h3></div>
                 <Box labelBox={"E-mail | SocialBit"} titleProps={"bit8social@gmail.com"} IconBox={BsMailbox2} idIcon={s.icon_email} idBox={s.email} URLRoute={'mailto:bit8social@gmail.com'}/>
-                <Box labelBox={"E-mail | Pessoal"} titleProps={"bit8social@gmail.com"} IconBox={BsMailbox2} idIcon={s.icon_email} idBox={s.email} URLRoute={'mailto:bit8social@gmail.com'}/>
+                <Box labelBox={"E-mail | Pessoal"} titleProps={"luanpdev@gmail.com"} IconBox={BsMailbox2} idIcon={s.icon_email} idBox={s.email} URLRoute={'mailto:luanpdev@gmail.com'}/>
             </div>
         </>
     );
