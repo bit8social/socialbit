@@ -1,13 +1,13 @@
 {
   "name": "socialbit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Links for SocialBit",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
   },
   "keywords": [],
-  "author": "",
+  "author": "@bit8social",
   "license": "ISC",
   "dependencies": {
     "aos": "^2.3.4",
@@ -17,5 +17,10 @@
     "react-bootstrap": "^2.9.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bit8social/socialbit"
   }
 }
